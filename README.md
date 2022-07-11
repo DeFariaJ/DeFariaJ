@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeFariaJ
-- I’m a junior bioinformatician at Instituto Gulbenkian Ciencia, Oeiras, Portugal.
+- I’m a bioinformatician at Instituto Gulbenkian Ciencia, Oeiras, Portugal.
 - I’m currently learning about software development applied to scientific research.
 - 📫 How to reach me goncalo.faria1@gmail.com 
 
